@@ -1,4 +1,4 @@
-# AiArtIsAmasing
+# Wizards in the wild
 ![image](https://github.com/glennwiz/AiArtIsAmasing/assets/195927/70c061af-bafc-4623-94ef-9ed15c38aaf1)
 
 
