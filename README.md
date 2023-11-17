@@ -12,3 +12,4 @@
 
 ![image](https://github.com/glennwiz/AiArtIsAmasing/assets/195927/e6773e66-8975-4b09-ba7e-45c4a96040d5)
 
+![Alt text](image.png)
